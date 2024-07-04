@@ -1,4 +1,8 @@
 # GraphTutorial
+App Dev Session 2
+
+Sign in users and call the Microsoft Graph API from an Angular single-page application (SPA) using auth code flow
+ref:https://learn.microsoft.com/en-us/entra/identity-platform/tutorial-v2-angular-auth-code
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.7.
 
